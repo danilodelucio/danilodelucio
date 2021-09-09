@@ -2,13 +2,17 @@
 Hi there, welcome to my GitHub profile! 👋👋
 </h1>
 <br>
-I'm not an expert in programing language, but I can play around with the fundamentals of Python. 🐍
+I'm a VFX Compositor and not an expert in programing language, but I can play around with the fundamentals of Python. 🐍
 <br><br>
 As a Nuke TD, I had the pleasure to develop the whole pipeline for NOX Visual Effects (from Vancouver, Canada), and some tools for Nuke using Python.
 <br><br>
 I'm facing new challenges studying a little bit of web-scrapping using Selenium, data analysis with Pandas and OpenPyxl, and some automation with PyAutoGui.
+<br><br>
+<b>Front-End:</b> Tkinter;
+<br>
+<b>Back-End:</b> Python;
 
-#
+  #
 <div>
   <a href="https://github.com/danilodelucio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilodelucio&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
