@@ -4,7 +4,7 @@ Hi there, welcome to my GitHub profile! 👋👋
 <br>
 I'm a VFX Compositor and not an expert in programing language, but I play around with the fundamentals of Python. 🐍
 <br><br>
-I've started my journey in Python working at Globo Studios in 2018, making some simple tools. Special thanks to Beatriz Cruz and Hugo Senger for inspired me to deep into this technical world.
+I've started my journey in Python working at Globo Studios in 2018 (Rio de Janeiro, Brazil), making some simple tools. Special thanks to Beatriz Cruz and Hugo Senger for inspired me to deep into this technical world.
 <br><br>
 As a Nuke/Pipeline TD, I had the pleasure to develop the pipeline for NOX Visual Effects (from Vancouver, Canada), and some tools for Nuke using Python as well.
 <br><br>
