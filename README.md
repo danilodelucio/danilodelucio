@@ -8,7 +8,7 @@ I've started my journey in Python working at Globo Studios in 2018 (Rio de Janei
 <br><br>
 As a Nuke/Pipeline TD, I had the pleasure to develop the pipeline for NOX Visual Effects (from Vancouver, Canada), and some tools for Nuke using Python as well.
 <br><br>
-I'm facing new challenges studying a little bit of web-scrapping using Selenium, data analysis with Pandas and OpenPyxl, and some automation with PyAutoGui.
+I'm facing new challenges studying a little bit of web-scrapping using Selenium, data analysis with Pandas/OpenPyxl, and some automation with PyAutoGui. Also, playing around with Bots for Discord.
 <br><br>
 <b>Front-End:</b> Tkinter;
 <br>
