@@ -1,20 +1,16 @@
-<h1>
-Hi there, welcome to my GitHub profile! 👋👋
-</h1>
-<br>
-I'm a VFX Compositor and not an expert in programing language, but in my spare time I play around with the fundamentals of Python. 🐍
-<br><br>
-I've started my journey in Python working at Globo Studios in 2018 (Rio de Janeiro, Brazil), making some simple tools.
-<br><br>
-As a Nuke/Pipeline TD, I had the pleasure to develop the pipeline for NOX Visual Effects (from Vancouver, Canada), and some tools for Nuke using Python as well.
-<br><br>
-I'm facing new challenges studying a little bit of web-scrapping using Selenium, data analysis with Pandas/OpenPyxl, and some automation with PyAutoGui. Also, playing around with Bots for Discord.
-<br><br>
-I have a basic knowledge of HTML5 and CSS3. I've developed my first website from scratch called ShuffleBot, and I learned a lot from it.
-<br><br>
-<b>Front-End:</b> Tkinter;
-<br>
-<b>Back-End:</b> Python;
+<h1>Hi there, welcome to my GitHub profile! 👋👋</h1>
+
+<div>
+  <p>I'm a VFX Compositor and not an expert in programing language, but I play around with the fundamentals of Python in my spare time. 🐍</p>
+
+  <p>I've started my journey in Python working at Globo Studios in 2018 (Rio de Janeiro, Brazil), making some simple tools.</p>
+
+  <p>As a Nuke/Pipeline TD, I had the pleasure to develop the pipeline for NOX Visual Effects (from Vancouver, Canada), and some tools for Nuke using Python as well.</p>
+
+  <p>I'm facing new challenges studying a little bit of web-scrapping using Selenium, data analysis with Pandas/OpenPyxl, and some automation with PyAutoGui. Also, playing around with Bots for Discord.</p>
+
+  <p>I have a basic knowledge of <abbr title="HyperText Markup Language 5">HTML5</abbr> and <abbr title="Cascading Style Sheets 3">CSS3</abbr>. I've developed my first website from scratch called ShuffleBot, and I learned a lot from it.</p>
+</div>
 
   #
 <div>
@@ -33,6 +29,5 @@ I have a basic knowledge of HTML5 and CSS3. I've developed my first website from
   <a href="https://www.youtube.com/channel/UCzfhdzdfIB6GHg7tZO9_IiA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/danilodelucio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danilodelucio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilodelucio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/danilodelucio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
