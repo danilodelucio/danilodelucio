@@ -1,6 +1,6 @@
 <h1>Hi there, welcome to my GitHub profile! 👋👋</h1>
 
-This is Danilo, my passion for VFX is divided into three parts: Compositing, Matchmoving, and Pipeline.
+I'm Danilo, my passion for VFX is divided into three parts: Compositing, Matchmoving, and Pipeline.
 I am always studying and looking to improve my artistic and technical skills, making personal projects and creating/sharing some tools I develop.
 
 I love learning and teaching what I know, and I am always eager to grow in the VFX industry.
