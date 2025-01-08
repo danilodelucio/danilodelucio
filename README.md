@@ -1,5 +1,15 @@
 <h1>Hi there, welcome to my GitHub profile! 👋👋</h1>
 
+This is Danilo, my passion for VFX is divided into three parts: Compositing, Matchmoving, and Pipeline.
+I am always studying and looking to improve my artistic and technical skills, making personal projects and creating/sharing some tools I develop.
+
+I love learning and teaching what I know, and I am always eager to grow in the VFX industry.
+
+Here are some tools I developed:
+
+![image](https://github.com/user-attachments/assets/1be9964d-6657-4b45-8c0b-2febff72df9b)
+
+
 <div>
   <a href="https://github.com/danilodelucio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilodelucio&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
