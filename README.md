@@ -1,18 +1,6 @@
 # 💫 About Me:
 I'm Danilo, my passion for VFX is divided into three parts: Compositing, Matchmoving, and Pipeline.<br>I am always studying and looking to improve my artistic and technical skills, making personal projects and creating/sharing some tools I develop.<br><br>I love learning and teaching what I know, and I am always eager to grow in the VFX industry.
 
-
-<div style="
-  padding: 20px;
-  border-radius: 12px;
-  background: #0d1117;
-  border: 1px solid #30363d;
-">
-  <strong style="font-size: 20px;">Teste de Caixa</strong><br>
-  Se você está lendo isso, o HTML funcionou.
-</div>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/danilodelucio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danilodelucio)
