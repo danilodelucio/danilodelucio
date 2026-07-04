@@ -22,13 +22,17 @@ I love learning and teaching what I know, and I am always eager to grow in the V
 
 ---
 ## ⚙️ Some tools I developed
-[<img width="827" height="347" alt="image" src="https://github.com/user-attachments/assets/e6f52e09-fe22-42de-a82f-ab4ebe802e5e" />](https://github.com/danilodelucio/NukeDiffusion)
-[<img width="827" height="347" alt="image" src="https://github.com/user-attachments/assets/6c9ed6a9-274a-41db-bd7f-2702dffa586f" />](https://github.com/danilodelucio/GradePass)
-[<img width="827" height="347" alt="image" src="https://github.com/user-attachments/assets/a276530b-31f5-472f-adb2-6183d1a2aea5" />](https://github.com/danilodelucio/Nuke_Start_Screen)
-[<img width="827" height="347" alt="image" src="https://github.com/user-attachments/assets/6cccd3a2-de3b-410d-b18f-5813a11ab0ff" />](https://github.com/danilodelucio/DL_Maya_Toolkit)
-[<img width="827" height="347" alt="image" src="https://github.com/user-attachments/assets/20afe0ae-7b1c-492d-b3a2-787ff1069c89" />](https://github.com/danilodelucio/DL_Blender_B2B)
-[<img width="830" height="322" alt="image" src="https://github.com/user-attachments/assets/e8ad11af-e071-4a09-8af1-c41d7a491385" />](https://github.com/danilodelucio/ReadChecker)
-[<img width="834" height="412" alt="image" src="https://github.com/user-attachments/assets/362d592c-3c51-427f-9ac0-766a23c69cc9" />](https://github.com/danilodelucio/DL_TornadoShader)
+[<img width="100%" alt="PrettyNuke - Cover v2 (Large)" src="https://github.com/user-attachments/assets/48effb12-4286-4be4-87b7-23c970fb2664" />](https://github.com/danilodelucio/PrettyNuke)
+[<img width="100%" alt="FastBackdrop Cover v1" src="https://github.com/user-attachments/assets/5335f9d5-f7cb-4b83-bbc2-4630339810fe" />](https://github.com/danilodelucio/FastBackdrop)
+[<img width="100%" alt="image" src="https://github.com/user-attachments/assets/e6f52e09-fe22-42de-a82f-ab4ebe802e5e" />](https://github.com/danilodelucio/NukeDiffusion)
+[<img width="100%" alt="image" src="https://github.com/user-attachments/assets/6c9ed6a9-274a-41db-bd7f-2702dffa586f" />](https://github.com/danilodelucio/GradePass)
+[<img width="100%" alt="image" src="https://github.com/user-attachments/assets/a276530b-31f5-472f-adb2-6183d1a2aea5" />](https://github.com/danilodelucio/Nuke_Start_Screen)
+[<img width="100%" alt="image" src="https://github.com/user-attachments/assets/6cccd3a2-de3b-410d-b18f-5813a11ab0ff" />](https://github.com/danilodelucio/DL_Maya_Toolkit)
+[<img width="100%" alt="image" src="https://github.com/user-attachments/assets/20afe0ae-7b1c-492d-b3a2-787ff1069c89" />](https://github.com/danilodelucio/DL_Blender_B2B)
+[<img width="100%" alt="image" src="https://github.com/user-attachments/assets/e8ad11af-e071-4a09-8af1-c41d7a491385" />](https://github.com/danilodelucio/ReadChecker)
+[<img width="100%" alt="image" src="https://github.com/user-attachments/assets/362d592c-3c51-427f-9ac0-766a23c69cc9" />](https://github.com/danilodelucio/DL_TornadoShader)
+[<img width="100%" alt="image" src="https://github.com/user-attachments/assets/7b16a77c-d340-4daa-8309-b49f147b7645" />](https://github.com/danilodelucio/DL_NukeAutoLoader)
+
 
 ---
 ## 💰 You can help me by Donating
