@@ -12,13 +12,8 @@ I love learning and teaching what I know, and I am always eager to grow in the V
 
 ## 🧰 Tech Stack Overview
 | **🖥️ Operating Systems** | **🛠️ Development Tools** | **🎥 VFX Tools** |
-|------|--------------|--------------|
-| <img width="45" height="45" src="https://github.com/user-attachments/assets/603d2376-a176-4814-8cce-cfda71d36560" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/62680cd2-01b1-4977-ae60-bd5266de4d8f" /> | <img width="50" height="50" src="https://github.com/user-attachments/assets/e58c5032-cd18-4ad1-9f6e-98e49a81caa7" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/870e0692-0190-4dbd-8a66-01c4a11b2ef8" /> <img width="60" height="60" src="https://github.com/user-attachments/assets/841ad288-78a9-49cb-8a45-73ef301f600f" /> | <img width="55" height="55" src="https://github.com/user-attachments/assets/4aa10981-5677-4b8e-90c6-a32746b07069" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/ec4800ff-9a2f-4472-9d4f-a4dcc566da78" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/2d4f61f7-75a5-4fff-b9a0-f707068773e1" /> <img width="50" height="50" src="https://github.com/user-attachments/assets/f83f5c1b-6d32-4755-861f-838b28db5c89" /> |
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=danilodelucio&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=danilodelucio&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilodelucio&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| :---: | :---: | :---: |
+| <img width="40" src="https://github.com/user-attachments/assets/603d2376-a176-4814-8cce-cfda71d36560" /> &nbsp; <img width="40" src="https://github.com/user-attachments/assets/62680cd2-01b1-4977-ae60-bd5266de4d8f" /> | <img width="40" src="https://github.com/user-attachments/assets/e58c5032-cd18-4ad1-9f6e-98e49a81caa7" /> &nbsp; <img width="40" src="https://github.com/user-attachments/assets/870e0692-0190-4dbd-8a66-01c4a11b2ef8" /> &nbsp; <img width="40" src="https://github.com/user-attachments/assets/841ad288-78a9-49cb-8a45-73ef301f600f" /> | <img width="40" src="https://github.com/user-attachments/assets/4aa10981-5677-4b8e-90c6-a32746b07069" /> &nbsp; <img width="40" src="https://github.com/user-attachments/assets/ec4800ff-9a2f-4472-9d4f-a4dcc566da78" /> &nbsp; <img width="40" src="https://github.com/user-attachments/assets/2d4f61f7-75a5-4fff-b9a0-f707068773e1" /> &nbsp; <img width="40" src="https://github.com/user-attachments/assets/f83f5c1b-6d32-4755-861f-838b28db5c89" /> |
 
 ---
 ## ⚙️ Some tools I developed
