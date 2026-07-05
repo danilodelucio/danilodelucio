@@ -4,6 +4,9 @@ I am always studying and looking to improve my artistic and technical skills, ma
 
 I love learning and teaching what I know, and I am always eager to grow in the VFX industry.
 
+Additionally, I study Game Development in my spare time. If you want a sneak peek, [here](https://github.com/danilodelucio/game-dev) is the repository with some mini-games I did.
+
+
 ---
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/danilodelucio)
